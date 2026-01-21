@@ -5,6 +5,9 @@ const page = () => {
     <>
     <div>page </div>
     <h1>hello</h1>
+    <div>
+      new change
+    </div>
     </>
   )
 }
